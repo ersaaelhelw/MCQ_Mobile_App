@@ -7,8 +7,8 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="mcq_app"
-        android:icon="@mipmap/ic_launcher">
+        android:label="MCQ App"
+        android:icon="@mipmap/questions">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
